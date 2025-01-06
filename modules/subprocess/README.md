@@ -6,7 +6,7 @@ O módulo `subprocess` é útil quando se precisa combinar a funcionalidade de d
 
 ---
 
-#### **Usando `subprocess.run`**
+## **Usando `subprocess.run`**
 
 O método subprocess.run é um dos mais versáteis do módulo, permitindo executar comandos com grande controle sobre sua execução. Ele fornece diversas opções para configurar como o processo externo será tratado. Por exemplo, é possível:
 
@@ -18,7 +18,7 @@ O método subprocess.run é um dos mais versáteis do módulo, permitindo execut
 
 ---
 
-#### **Conclusão**
+## **Conclusão**
 
 O módulo `subprocess` no Python permite executar e controlar programas externos diretamente nos seus scripts. Com ele é possível:
 
