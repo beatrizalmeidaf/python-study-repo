@@ -23,7 +23,7 @@ Este repositório utiliza:
 
 ## 📚 Recursos Úteis
 
-Aqui estão alguns links úteis utilizados no reposiório:
+Aqui estão alguns links úteis utilizados no repositório:
 
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 
