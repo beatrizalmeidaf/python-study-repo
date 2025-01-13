@@ -1,4 +1,4 @@
-# Listas 
+# Listas
 
 ## O que são Listas?
 Uma lista é uma coleção de itens organizados em uma ordem específica. Os itens de uma lista podem ser de qualquer tipo de dado, como inteiros, strings ou até outras listas. Listas em Python são definidas usando colchetes (`[]`), e os elementos são separados por vírgulas. Como são coleções ordenadas, você pode acessar um item específico informando o índice correspondente.
@@ -29,6 +29,20 @@ Listas podem ser organizadas em ordem crescente ou decrescente. Essa operação 
 ### Tamanho da Lista
 Você pode determinar o número de elementos em uma lista. Essa funcionalidade é essencial para loops e verificações de condições.
 
+### Laços em Listas
+Percorrer listas com laços é uma das operações mais comuns em Python.
+- **`for` em listas:** Permite acessar cada elemento da lista sequencialmente.  
+- **`while` com índices:** Quando você precisa de maior controle sobre o índice.
+
+
+### Função `range`
+A função `range` é amplamente usada para gerar sequências de números, especialmente em laços.
+
+
+### Fatias (Slicing)
+Fatias permitem acessar partes específicas de uma lista.
+- **Sintaxe geral:** `lista[início:fim:passo]`
+
 ---
 
 ## List Comprehensions
@@ -48,6 +62,3 @@ Exemplo conceitual:
 
 ## Recursos Adicionais
 - [Documentação Oficial do Python](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
-- [Tutoriais Interativos no W3Schools](https://www.w3schools.com/python/python_lists.asp)
-
----
