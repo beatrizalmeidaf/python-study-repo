@@ -31,7 +31,7 @@ Os dicionários em Python são uma estrutura de dados poderosa e essencial para 
 ## Quando usar dicionários?
 
 Os dicionários são ideais quando você precisa:
-- Associar pares de dados (ex.: nome e telefone).
+- Associar pares de dados.
 - Realizar buscas rápidas por uma chave.
 - Trabalhar com dados desordenados onde a posição não importa.
 
