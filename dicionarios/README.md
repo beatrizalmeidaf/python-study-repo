@@ -34,3 +34,8 @@ Os dicionários são ideais quando você precisa:
 - Associar pares de dados (ex.: nome e telefone).
 - Realizar buscas rápidas por uma chave.
 - Trabalhar com dados desordenados onde a posição não importa.
+
+---
+
+## Recursos Adicionais
+- [Documentação Oficial do Python](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
