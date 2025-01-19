@@ -17,7 +17,7 @@ Você pode adicionar novos elementos em uma lista, seja no final ou em uma posi�
 Existem diversas formas de remover elementos de uma lista:
 - **Instrução `del`:** Apaga um item especificado e não o retorna.
 - **Método `pop()`:** Remove um item pelo índice e retorna o item removido.
-- **Método `remove()`:** Remove um item pelo seu valor (não pela posição) e é úteil quando você sabe apenas o valor a ser eliminado.
+- **Método `remove()`:** Remove um item pelo seu valor (não pela posição) e é útil quando você sabe apenas o valor a ser eliminado.
 
 ---
 
