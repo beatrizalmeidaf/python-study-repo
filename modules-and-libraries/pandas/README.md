@@ -1,4 +1,4 @@
-# Estudos sobre a Biblioteca Pandas 🐼
+# Pandas 
 
 Esse repositório contém materiais, códigos e exemplos relacionados ao estudo da biblioteca **Pandas**, amplamente utilizada para manipulação e análise de dados em Python. O objetivo dessa subpasta é consolidar o aprendizado sobre a biblioteca, abordando desde conceitos básicos até funcionalidades mais avançadas.  
 
