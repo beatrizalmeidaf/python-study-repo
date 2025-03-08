@@ -1,7 +1,7 @@
 # Python Study Repo 🐍
 
-Este é um repositório para explorar, praticar e dominar os conceitos de Python de forma organizada e eficiente. 🚀
-Este repositório se baseia nos seguintes livros:
+Esse é um repositório para explorar, praticar e dominar os conceitos de Python de forma organizada e eficiente. 🚀
+Esse repositório se baseia nos seguintes livros:
 
 | <img src="https://github.com/user-attachments/assets/6c669759-d8f8-4590-a283-ae84328e5a6b" width="200"/> | <img src="https://github.com/user-attachments/assets/3806b16f-9a7e-4381-a8b6-ccbaf42d0a37" width="200"/> |
 |:---------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
@@ -9,7 +9,7 @@ Este repositório se baseia nos seguintes livros:
 
 ## 🎯 Objetivo
 
-Este repositório foi criado com o propósito de:
+O repositório foi criado com o propósito de:
 
 - Aprender e reforçar os fundamentos do Python.
 - Experimentar bibliotecas populares e ferramentas úteis.
@@ -19,7 +19,7 @@ Este repositório foi criado com o propósito de:
 
 ## 🛠 Tecnologias e Ferramentas
 
-Este repositório utiliza:
+Esse repositório utiliza:
 
 - **Python 3.10+**: A versão principal para explorar recursos mais recentes.
 - **Jupyter Notebook**: Para experimentos interativos.
